@@ -11,7 +11,7 @@ Venho compartilhar o projeto que desenvolvi junto com os meninos do canal <a hre
 
 <br/>
 
-<h2><strong><a href="#">Link do projeto</a></strong></h2>
+<h2><strong><a href="https://kamilenna.github.io/projeto-one-piece/" target="_blank">Link do projeto</a></strong></h2>
 
 <br/>
 
